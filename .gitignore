@@ -1,7 +1,6 @@
 node_modules/
 .gatsby-context.js
 .DS_Store
-public
 .intermediate-representation/
 .cache/
 yarn.lock

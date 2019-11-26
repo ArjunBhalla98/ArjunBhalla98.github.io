@@ -1,0 +1,84 @@
+{
+  "assetsByChunkName": {
+    "path---publications": [
+      "path---publications-822a054abfd758cb495e.js",
+      "path---publications-822a054abfd758cb495e.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-f3f7277d669553dc539b.js",
+      "component---src-pages-index-js-f3f7277d669553dc539b.js.map"
+    ],
+    "path---2018-06-15-redesigning-my-website": [
+      "path---2018-06-15-redesigning-my-website-284316625d4ad4ac98da.js",
+      "path---2018-06-15-redesigning-my-website-284316625d4ad4ac98da.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---2018-08-4-internship": [
+      "path---2018-08-4-internship-67447ecaf84712866999.js",
+      "path---2018-08-4-internship-67447ecaf84712866999.js.map"
+    ],
+    "component---src-pages-publications-js": [
+      "component---src-pages-publications-js-d96faa8933c0c8a5eb6f.js",
+      "component---src-pages-publications-js-d96faa8933c0c8a5eb6f.js.map"
+    ],
+    "path---projects": [
+      "path---projects-822a054abfd758cb495e.js",
+      "path---projects-822a054abfd758cb495e.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "path---2018-05-21-chess-ai": [
+      "path---2018-05-21-chess-ai-005e29beaeb83e164a6a.js",
+      "path---2018-05-21-chess-ai-005e29beaeb83e164a6a.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-f6b8484037e243dd4747.js",
+      "component---src-templates-blog-post-js-f6b8484037e243dd4747.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-477a4fb71de2c7c656c2.js",
+      "component---src-layouts-index-js-477a4fb71de2c7c656c2.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "commons": [
+      "commons-0726a0075b739bc6f4b1.js",
+      "build-js-styles.css",
+      "commons-0726a0075b739bc6f4b1.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---2018-04-20-fire-and-shadow": [
+      "path---2018-04-20-fire-and-shadow-67bae0e088970321ec07.js",
+      "path---2018-04-20-fire-and-shadow-67bae0e088970321ec07.js.map"
+    ],
+    "path---2018-05-14-comparacter": [
+      "path---2018-05-14-comparacter-f7284cdfe27ae9d16937.js",
+      "path---2018-05-14-comparacter-f7284cdfe27ae9d16937.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-projects-js": [
+      "component---src-pages-projects-js-e323b75b1824a85b778f.js",
+      "component---src-pages-projects-js-e323b75b1824a85b778f.js.map"
+    ],
+    "path---2018-06-18-learning-to-trade": [
+      "path---2018-06-18-learning-to-trade-b4af0ed37a8ee277ee71.js",
+      "path---2018-06-18-learning-to-trade-b4af0ed37a8ee277ee71.js.map"
+    ],
+    "app": [
+      "app-039b092cb9f588aaf9b0.js",
+      "build-js-styles.css",
+      "app-039b092cb9f588aaf9b0.js.map",
+      "build-js-styles.css.map"
+    ]
+  }
+}
